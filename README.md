@@ -10,4 +10,4 @@ nuhabo/nuhabo is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-커밋 연동테스트 TEST2
+슬랙에 깃허브를 연동하여 사용중
