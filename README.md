@@ -1,6 +1,25 @@
 ## <div align=center>Hi ^ㅡ^ <img src="https://user-images.githubusercontent.com/52397976/128292642-cb9d58c3-e01e-41c0-8713-14c59f4fb499.gif" width="30px"></div>
 <br />
 
+<div align=center> 
+  <table>
+    <thead>
+      <tr>
+        <th>nuhabo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://github-readme-stackoverflow.vercel.app/?userID=16359772"/>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 - 👋 Hi, I’m @nuhabo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
