@@ -6,6 +6,7 @@
     <thead>
       <tr>
         <th>My Profile</th>
+        <th>GitHub</th>
       </tr>
     </thead>
     <tbody>
