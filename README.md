@@ -12,9 +12,6 @@
 ![](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)
 ![](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=Blazor&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
 
 <!---
