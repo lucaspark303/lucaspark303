@@ -21,6 +21,12 @@
 ## _Database_
 ![](https://img.shields.io/badge/-MSSQL-%23CC2927?style=for-the-badge&logo=Microsoft-SQL-Server)
 
+## _Community_
+![](https://img.shields.io/badge/-StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)
+
 <!---
 nuhabo/nuhabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
