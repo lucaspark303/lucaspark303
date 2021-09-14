@@ -51,7 +51,9 @@
 
 ## _Repositories_
 - devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
+- devncore/ncorestudio [Here.](https://github.com/devncore/ncorestudio)
 - devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
+
 
 <!---
 nuhabo/nuhabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
