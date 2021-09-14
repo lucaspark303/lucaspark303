@@ -5,7 +5,7 @@
   <table>
     <thead>
       <tr>
-        <th>nuhabo</th>
+        <th>My Profile</th>
       </tr>
     </thead>
     <tbody>
