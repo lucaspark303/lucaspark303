@@ -13,6 +13,9 @@
         <td>
           <img src="https://github-readme-stackoverflow.vercel.app/?userID=16359772"/>
         </td>
+         <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=devncore-lucas&show_icons=true&theme=buefy&count_private=true&hide_border=true&hide_title=true&disable_animations=true&line_height=25"/>
+        </td>
       </tr>
     </tbody>
   </table>
