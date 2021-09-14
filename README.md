@@ -13,8 +13,6 @@
         <td>
           <img src="https://github-readme-stackoverflow.vercel.app/?userID=16359772"/>
         </td>
-        <td>
-        </td>
       </tr>
     </tbody>
   </table>
