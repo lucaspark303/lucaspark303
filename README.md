@@ -5,7 +5,7 @@
   <table>
     <thead>
       <tr>
-        <th>My Profile</th>
+        <th>StackOverflow</th>
         <th>GitHub</th>
       </tr>
     </thead>
