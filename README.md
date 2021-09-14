@@ -27,14 +27,12 @@
 ![](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)
 
+## _Repositories_
+- devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
+- devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
+
 <!---
 nuhabo/nuhabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-슬랙에 깃허브를 연동하여 사용중
-
-.NET WPF 개발자 
-
-
 
