@@ -23,7 +23,6 @@
   </table>
 </div>
 
-
  ## _Tech_
 ![](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=C-Sharp)
 ![](https://img.shields.io/badge/-.NET-%235C2D91?style=for-the-badge&logo=.NET)
@@ -48,10 +47,3 @@
 - devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
 - devncore/ncorestudio [Here.](https://github.com/devncore/ncorestudio)
 - devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
-
-
-<!---
-nuhabo/nuhabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
