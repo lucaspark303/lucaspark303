@@ -45,7 +45,6 @@
 
 ## _Repositories_
 - devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
-- devncore/ncorestudio [Here.](https://github.com/devncore/ncorestudio)
 - devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
 
 <br/>
