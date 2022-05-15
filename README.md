@@ -47,4 +47,3 @@
 - devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
 - devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
 
-<br/>
