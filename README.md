@@ -44,6 +44,3 @@
 ![](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)
 
 ## _Repositories_
-- devncore/leagueoflegends [Here.](https://github.com/devncore/leagueoflegends)
-- devncore/the-easiest-markdown [Here.](https://github.com/devncore/the-easiest-markdown)
-
