@@ -31,10 +31,6 @@
 ![](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual-Studio)
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual-Studio-Code)
 
-## _Database_
-<img src="https://img.shields.io/badge/MSSQL-%23CC2927?style=flat-square&logo=Microsoft-SQL-Server">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-
 ## _Community_
 ![](https://img.shields.io/badge/-StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
